@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+venv/
+env/
+
+# Build e distribuição
+build/
+dist/
+*.spec
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlpro
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
