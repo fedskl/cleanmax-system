@@ -24,6 +24,7 @@ python -m venv venv
 # Ative o ambiente virtual
 # Windows:
 venv\Scripts\activate
+
 # Linux/Mac:
 source venv/bin/activate
 
@@ -32,3 +33,9 @@ pip install -r requirements.txt
 
 # Execute o sistema
 python main.py
+```
+
+## ACESSO 
+
+Para fins de teste na primeira execução do sistema será criado o banco de dados e tabelas incluindo um usuário e senha padrão (user: admin / password: admin).
+
